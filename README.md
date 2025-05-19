@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">Currently Learning Backend(Nodejs etc), React, C++</h3>
+<h3 align="left">Currently Learning:-</h3>
 
 ###
 
